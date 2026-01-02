@@ -79,7 +79,7 @@ Svaki zapis sadrži:
 Primjer zapisa:
 
 ```
-DarkPrince | Score: 0023 | Time: 45 sec | Lives left: 1 | Reason: Wall collision
+DarkPrince*/imelaptopa/* | Score: 0023 | Time: 45 sec | Lives left: 1 | Reason: Wall collision
 ```
 
 ---
