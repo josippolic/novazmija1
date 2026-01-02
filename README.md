@@ -149,7 +149,3 @@ DarkPrince*/imelaptopa/* | Score: 0023 | Time: 45 sec | Lives left: 1 | Reason: 
 **Godina:** 2025
 
 ---
-
-
-
-samo mi reci 👍
