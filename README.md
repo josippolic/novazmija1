@@ -1,5 +1,5 @@
 
----
+--- 
 
 # 🐍 Snake – Konzolna igra u C (Windows)
 
